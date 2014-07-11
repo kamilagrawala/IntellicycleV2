@@ -21,5 +21,11 @@ https://sites.google.com/a/onid.oregonstate.edu/ece44x201368/
 
 Engineers:
 
-Computer & Hardware Engineer:           Power Engineer:                   Software/Mobile Development Engineer
-Brian Benevidez                         Arron Bellini                     Kamil Agrawala
+Computer & Hardware Engineer: 
+Brian Benevidez
+
+Power Engineer:                   
+Arron Bellini                                       
+
+Software/Mobile Development Engineer
+Kamil Agrawala

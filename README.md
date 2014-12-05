@@ -2,7 +2,7 @@ IntellicycleV2
 ==============
 
 Version 2 of Intellicycle senior design project. Oregon State. 
-The intention of this project was to make an intelligent excercise bycle.
+The intention of this project was to make an intelligent excercise bicycle.
 
 There were many aspects to making this project happen.
 

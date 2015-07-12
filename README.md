@@ -31,4 +31,4 @@ Software/Mobile Development Engineer: Kamil Agrawala
 
 
 
-***** This Project Won the Oregon State University People's Choice Award for the 2014 Engineering Expo. *****
+This Project Won the Oregon State University People's Choice Award for the 2014 Engineering Expo. 

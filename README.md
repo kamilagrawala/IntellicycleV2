@@ -27,7 +27,7 @@ Computer & Hardware Engineer: Brian Benavides
 Power Engineer: Arron Bellini                                       
             
 
-Software/Mobile Development Engineer: Kamil Agrawala
+Software/Mobile Development Engineer(Android): Kamil Agrawala
 
 
 
